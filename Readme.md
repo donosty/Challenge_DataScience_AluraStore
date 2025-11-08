@@ -110,7 +110,7 @@ Estas métricas pueden servir de base para **estrategias de marketing, optimizac
 
 ## 👨‍💻 Autor
 
-**Tu Nombre o Usuario de GitHub**
+**Usuario de GitHub**
 💼 [https://github.com/donosty]
 🎓 Proyecto realizado para el programa **Oracle Next Education (ONE)**
 
